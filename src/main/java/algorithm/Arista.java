@@ -2,7 +2,7 @@ package algorithm;
 
 /**
  * 
- * @author Adán Méndez
+ * @author Adan Mendez
  * Esta clase guarda la informacion de las aristas
  */
 public class Arista {
